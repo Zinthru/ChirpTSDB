@@ -1,4 +1,7 @@
 import * as mysql from 'mysql';
+import { Router } from 'express';
+
+const router = Router();
 
 const pool = mysql.createPool({
     host: 'localhost',
@@ -78,14 +81,7 @@ getChirp,
 getChirps,
 deleteChirps,
 editChirps,
-postChirps
+postChirps,
+pool,
+router
 }
-
-import users from './queries/users';
-
-export default {
-    users
-}
-
-
-                                                                                                                

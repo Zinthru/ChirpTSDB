@@ -1,0 +1,369 @@
+[33mcommit 3e0d727a2cc794ce0f8c12f8668cf7fc269e6cb4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin1/main[m[33m)[m
+Author: Dustin <Dpianoa@gmail.com>
+Date:   Tue Jun 8 14:25:13 2021 -0600
+
+    added db folder
+
+[33mcommit c980d4e956625aa9fe5415f9da135aec974aaaa9[m
+Author: Dustin <Dpianoa@gmail.com>
+Date:   Tue Jun 8 11:12:47 2021 -0600
+
+    CRUD made
+
+[33mcommit 7113fa479674610e40a5f9f3b2d44054ad22b0dc[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: przekwas <luke@covalence.io>
+Date:   Tue May 25 10:52:56 2021 -0500
+
+    fixing vulnerability
+
+[33mcommit 3aa5e4c07fc9871082cb8419a466773eaf791e19[m
+Merge: 211c5e3 51fc2ec
+Author: Jackson Carr <jacksonrc@users.noreply.github.com>
+Date:   Wed May 12 04:41:34 2021 -0500
+
+    Merge pull request #3 from covalence-io/dependabot/npm_and_yarn/postcss-8.2.15
+    
+    Bump postcss from 8.2.8 to 8.2.15
+
+[33mcommit 51fc2ecb1957f53278c6b6a52c72d250098e469f[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed May 12 00:28:50 2021 +0000
+
+    Bump postcss from 8.2.8 to 8.2.15
+    
+    Bumps [postcss](https://github.com/postcss/postcss) from 8.2.8 to 8.2.15.
+    - [Release notes](https://github.com/postcss/postcss/releases)
+    - [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/postcss/postcss/compare/8.2.8...8.2.15)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 211c5e3895c8e1085b0cddd082e8ec2c1ce566a5[m
+Merge: 8e413e0 dc8eb54
+Author: Jackson Carr <jacksonrc@users.noreply.github.com>
+Date:   Mon May 10 14:32:33 2021 -0500
+
+    Merge pull request #2 from covalence-io/dependabot/npm_and_yarn/hosted-git-info-2.8.9
+    
+    Bump hosted-git-info from 2.8.8 to 2.8.9
+
+[33mcommit dc8eb545a39ef001c3eebf62734dc139a0e72844[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun May 9 21:11:27 2021 +0000
+
+    Bump hosted-git-info from 2.8.8 to 2.8.9
+    
+    Bumps [hosted-git-info](https://github.com/npm/hosted-git-info) from 2.8.8 to 2.8.9.
+    - [Release notes](https://github.com/npm/hosted-git-info/releases)
+    - [Changelog](https://github.com/npm/hosted-git-info/blob/v2.8.9/CHANGELOG.md)
+    - [Commits](https://github.com/npm/hosted-git-info/compare/v2.8.8...v2.8.9)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 8e413e021b62d03b3144a09777292e6916deb74d[m
+Author: Andrew Cartwright <andrewlloydcartwright+atlc@gmail.com>
+Date:   Wed Apr 28 08:57:56 2021 -0500
+
+    Revert "Generating a bunch of color utility classes to create a tailwind-esque bootstrap colorkit"
+    
+    This reverts commit f94570cd6fc04757a8c4c66903251ce892e05bb5.
+
+[33mcommit d88d050807b06979b19d3aa23a9dd27e029a7655[m
+Author: Andrew Cartwright <andrewlloydcartwright+atlc@gmail.com>
+Date:   Sun Apr 25 08:25:35 2021 -0500
+
+    Adding in quick start to TS-Chirper demo with random bootstrap+tailwind side project
+
+[33mcommit f94570cd6fc04757a8c4c66903251ce892e05bb5[m
+Author: Andrew Cartwright <andrewlloydcartwright+atlc@gmail.com>
+Date:   Thu Apr 22 01:13:29 2021 -0500
+
+    Generating a bunch of color utility classes to create a tailwind-esque bootstrap colorkit
+
+[33mcommit 906fb2047e3b4ad7d002dcef71c2f70b2141391b[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Mar 18 23:25:29 2021 -0500
+
+    adding comments for both examples
+
+[33mcommit 8e6303e2b3227598ba3f8410faf4709950b62f0d[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Mar 18 23:24:49 2021 -0500
+
+    updating boiler code to showcase react hooks example
+
+[33mcommit d7860de712fd321be4082ff58dea4d00f8581ca2[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Mar 18 23:19:56 2021 -0500
+
+    updating packages
+
+[33mcommit d99c1ca292b2bab9b2e93165a35e69cfc2c3b065[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Mar 18 23:19:31 2021 -0500
+
+    making tsconfig orders match
+
+[33mcommit 71f125ae8f6d816d976a42572a3408b288f1ab26[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Mar 18 23:12:45 2021 -0500
+
+    fixing readme typo
+
+[33mcommit c4988c338d82bd57e609e6d73fc4304ff8b373f7[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Mar 18 23:11:10 2021 -0500
+
+    trying different markdown syntax
+
+[33mcommit db6e250455e0c3f3ff561e0af7859bd9603e6321[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Mar 18 23:04:21 2021 -0500
+
+    adding toc to readme
+
+[33mcommit b07f725ef24acb8819ebec0e40c68df77280735a[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Mar 18 22:58:39 2021 -0500
+
+    updating readme and some config
+
+[33mcommit b83c4e5250ead0aa6e59349bcc9a65a79a441742[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Mar 18 18:03:50 2021 -0500
+
+    updating readme
+
+[33mcommit ce510b7afc61566a6db2e2452ea8f243e7d743bb[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Mar 18 17:20:36 2021 -0500
+
+    deleting non-source code
+
+[33mcommit 3feb05e9397062f7d7d5fdf775de4bb1ef3d6e42[m
+Author: przekwas <luke@covalence.io>
+Date:   Fri Mar 5 14:48:53 2021 -0600
+
+    updating packages
+
+[33mcommit 5af6e69c63a6d2cab0432052c6ff943f49364533[m
+Author: przekwas <luke@covalence.io>
+Date:   Tue Jan 12 09:59:21 2021 -0600
+
+    fixing vulnerability
+
+[33mcommit a2b99dcdb645e8d583eb6574b92a73c8281d95e9[m
+Author: przekwas <luke@covalence.io>
+Date:   Mon Dec 28 09:05:42 2020 -0600
+
+    updating dependencies
+
+[33mcommit 4506f2e25807add5370d0164a285bfbb1c3b0ef6[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Nov 5 11:03:07 2020 -0600
+
+    reverting to class to match lectures and leaving hook example commented
+
+[33mcommit 0fa5791afa1fe204037ebb8d42e30eba3552de7e[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Nov 5 11:02:44 2020 -0600
+
+    reverting to match lectures
+
+[33mcommit be0fad41171425e65dd8a75b7de43b2a375ac88d[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Sep 17 14:57:38 2020 -0500
+
+    updating to use hook example
+
+[33mcommit cfc98dbd1ce100e41ce9ca28d3cd1ca9ab56d973[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Sep 17 14:57:25 2020 -0500
+
+    updating route for fun new greeting
+
+[33mcommit 90a0f25b8e3bd8ddf7e8c0bd732c00c1a595c8dd[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Sep 17 14:56:43 2020 -0500
+
+    updating readme
+
+[33mcommit 4d99e1898523dc478f4799599e610edbca44442f[m
+Author: przekwas <luke@covalence.io>
+Date:   Mon Aug 17 14:22:48 2020 -0500
+
+    updating package to fix vulnerability
+
+[33mcommit e42ca7800d4720a1e689a55492c00f425342d0d7[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Aug 13 14:40:02 2020 -0500
+
+    updating package to fix vulnerability
+
+[33mcommit 9a40c3d13fbfa257d4b6c8760237993d6c15f6b5[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Jul 30 11:29:37 2020 -0500
+
+    updating tsconfig to include module resolution
+
+[33mcommit 7c12e1041af607f5faed216bcf17762ff30bab2b[m
+Author: przekwas <luke@covalence.io>
+Date:   Wed Jul 29 21:07:26 2020 -0500
+
+    fixing available vulernabilities
+
+[33mcommit fbcc27dccb5a0a39085f398f2f331ae3672c113d[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Jul 16 00:02:41 2020 -0500
+
+    fixing vulnerabilities
+
+[33mcommit 54ed45de535f109266878de332b8fc05256c414b[m
+Author: przekwas <luke@covalence.io>
+Date:   Mon May 18 10:08:31 2020 -0500
+
+    updating packages
+
+[33mcommit 96ce69fe1fad5fe018713b286d9c6628856e8b87[m
+Author: przekwas <luke@covalence.io>
+Date:   Mon May 18 10:07:07 2020 -0500
+
+    updating package to fix vulnerability
+
+[33mcommit d7255f5cf83cd79389120e80835af43b8b16502e[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Apr 23 00:31:21 2020 -0500
+
+    updating dependencies
+
+[33mcommit 8e65c6197b3434f1a0f07a91eabe30264986348e[m
+Author: przekwas <luke@covalence.io>
+Date:   Tue Mar 24 09:56:43 2020 -0500
+
+    updating dependencies to fix vulnerabilities
+
+[33mcommit c0baab6985e10522429681888ff252fd5258a9de[m
+Author: przekwas <luke@covalence.io>
+Date:   Tue Mar 10 10:32:27 2020 -0500
+
+    fixing security vulnerabilities
+
+[33mcommit 0b8cc80ed07bc17cbe5888b028ff9320a5712364[m
+Author: przekwas <luke@covalence.io>
+Date:   Sat Feb 1 00:45:51 2020 -0600
+
+    updating packages
+
+[33mcommit a8a242bc619df668692be214b2489cea8cb9474a[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Jan 16 22:55:01 2020 -0600
+
+    fixing vulnerability
+
+[33mcommit 225413bd55418bc4b73edfaf05e43dc9b0cf26cc[m
+Author: przekwas <luke@covalence.io>
+Date:   Mon Dec 23 15:43:53 2019 -0600
+
+    updating packages
+
+[33mcommit 1bfd49cf78a22b4c8cbd41c68129d1a72d2392b2[m
+Author: przekwas <luke@covalence.io>
+Date:   Tue Nov 5 09:48:55 2019 -0600
+
+    changing lifecycle methods because old one is deprecating
+
+[33mcommit 949339e7eee9a10a6b866a8258638f1a685ae544[m
+Author: przekwas <luke@covalence.io>
+Date:   Tue Nov 5 09:48:02 2019 -0600
+
+    updating packages
+
+[33mcommit e0e9d50b459a9b48ec4d87f1b940be57325ead96[m
+Author: przekwas <luke@covalence.io>
+Date:   Fri Aug 9 10:33:12 2019 -0500
+
+    adjusting starter code to show bootstrap override
+
+[33mcommit 4b4d82057672a25c04db19e392a8891d8bb53170[m
+Author: przekwas <luke@covalence.io>
+Date:   Wed Jul 17 13:39:51 2019 -0500
+
+    cleaning up server boilerplate code
+
+[33mcommit b8f22df291af7e0b2a5178a0d622e4440ba18fa4[m
+Author: przekwas <luke@covalence.io>
+Date:   Wed Jul 17 13:38:00 2019 -0500
+
+    fixing vulnerabilities
+
+[33mcommit 587ae3c7b533d2fa23ba3474f57758450273e985[m
+Author: przekwas <luke@covalence.io>
+Date:   Tue Jun 25 21:10:43 2019 -0500
+
+    updating dependencies to newest versions
+
+[33mcommit 2afa686e68200247f87a8a5cc2af762299deef7c[m
+Author: przekwas <luke@covalence.io>
+Date:   Wed May 22 11:43:44 2019 -0500
+
+    fixing tar vulnerability
+
+[33mcommit 07644dede03a5efe2a69b783e10a2d1d7a710391[m
+Author: przekwas <luke@covalence.io>
+Date:   Mon May 13 13:02:18 2019 -0500
+
+    updating packages
+
+[33mcommit 3aeb2aaaed4d37a0da51a47da52d2bcbd9c9f8e2[m
+Author: przekwas <luke@covalence.io>
+Date:   Fri May 3 11:07:57 2019 -0500
+
+    fixing npm security issue
+
+[33mcommit b6aef8cb8c4758a8ba1b3a66ee94a5710692c6b7[m
+Author: przekwas <luke@covalence.io>
+Date:   Wed Apr 17 14:59:21 2019 -0500
+
+    updating packages
+
+[33mcommit 5139bf64ef253177afbfa3b21c56ba95db06f6dd[m
+Author: przekwas <luke@covalence.io>
+Date:   Tue Apr 9 16:26:06 2019 -0500
+
+    updating react and react-dom to 16.8
+
+[33mcommit d05ed68eea3ce26a324034218d3c342cbc1e8ff6[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Mar 7 14:30:07 2019 -0600
+
+    updating bootstrap version to fix security vulnerability
+
+[33mcommit f42d604f94d62f48f8f6576728d434da0ff1ed72[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Mar 7 14:29:31 2019 -0600
+
+    adding mode to client config
+
+[33mcommit fab0edcd0ddc32052bbac907b1f6952eaf8c2f8c[m
+Author: przekwas <luke@covalence.io>
+Date:   Thu Mar 7 14:22:08 2019 -0600
+
+    adding dist and app bundles to gitignore
+
+[33mcommit 4f14f0acb972538a6dedb0f790522da1d010d1c0[m
+Author: Matt Morgan <m@getplatypi.com>
+Date:   Wed Feb 20 19:46:45 2019 -0500
+
+    removing arg options from webpack config
+
+[33mcommit be2306df8ff07773560574fec6a392c8f4c368ad[m
+Author: Matt Landers <matt@platypi.io>
+Date:   Mon Jan 7 17:45:19 2019 -0600
+
+    added readme
+
+[33mcommit 7961d4e6a0ca41be0cfd40c2cb52e9a747ae8072[m
+Author: Matt Landers <matt@platypi.io>
+Date:   Mon Jan 7 16:42:11 2019 -0600
+
+    initial project
